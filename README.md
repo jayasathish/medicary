@@ -1,1 +1,1 @@
-# medicary
+# medicasy
